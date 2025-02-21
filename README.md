@@ -20,3 +20,7 @@ I uploaded a few audio files for voice input, but you can also upload your own a
 You can either download the repo as a zip file, or use git clone:
 
 git clone https://github.com/yuqianxu2816/EECS-449-EC.git
+
+If needed, please run:
+
+pip install langchain langchain-community langchain-ollama
