@@ -8,3 +8,5 @@ Please install FFmpeg:
 Windows: winget install Gyan.FFmpeg
 Linux: sudo apt install ffmpeg
 macOS: brew install ffmpeg
+
+I uploaded a few audio files for voice input, but you can also upload your own audio files.
