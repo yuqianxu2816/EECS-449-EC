@@ -1,0 +1,9 @@
+langchain
+ollama
+openai-whisper
+torch
+torchaudio
+numpy
+transformers
+sentencepiece
+ffmpeg-python
