@@ -15,3 +15,8 @@ Linux: sudo apt install ffmpeg
 macOS: brew install ffmpeg
 
 I uploaded a few audio files for voice input, but you can also upload your own audio files.
+
+
+You can either download the repo as a zip file, or use git clone:
+
+git clone https://github.com/yuqianxu2816/EECS-449-EC.git
